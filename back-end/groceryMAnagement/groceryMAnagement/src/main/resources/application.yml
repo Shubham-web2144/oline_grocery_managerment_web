@@ -1,0 +1,28 @@
+server:
+  port: 7000
+
+spring:
+  application:
+    name: grocerymanagement
+  datasource:
+    username: root
+    password: Shub@2144
+    url: jdbc:mysql://localhost:3306/ogm
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    properties:
+      hibernate:
+        dialect: org.hibernate.dialect.MySQL8Dialect
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+  security:
+    user:
+      name: root
+      password: root
+
+  
+
+    
+      
+     

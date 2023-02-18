@@ -1,0 +1,68 @@
+{
+  "products": [
+    {
+      "id": "104",
+      "name": "samsung iphones",
+      "description": "samsung first product",
+      "mfg": "samsung ltd",
+      "quantity": 2,
+      "price": 10,
+      "view": 53
+    },
+    {
+      "id": "105",
+      "name": "puma",
+      "description": "Bajaj mixi",
+      "mfg": "bajaj",
+      "quantity": 2,
+      "price": 10,
+      "view": 77
+    },
+    {
+      "id": "99",
+      "name": "reebok",
+      "description": "Bajaj mixi",
+      "mfg": "bajaj",
+      "quantity": 2,
+      "price": 10,
+      "view": 53
+    }
+  ],
+  "users": [
+    {
+      "email": "mayur@mail.com",
+      "password": "$2a$10$6wSdAY5UwsvqeDDK3QC.b.4cbALp/vtiUdwgiR7sFNaf8N.QK9KUS",
+      "id": "3cd90eaa-393a-47bf-81a4-b82f881b6012",
+      "firstName": "mayur",
+      "lastName": "bholane",
+      "mobile": 7878665,
+      "active": "true"
+    },
+    {
+      "email": "saurabh@mail.com",
+      "password": "$2a$10$eL2ad1DhyREoLoGMC94b2.7btdooDkekY.HIU438irCvnSODfKHjO",
+      "id": "2cdc6fbd-6780-4409-b359-956369c1da6c",
+      "firstName": "saurabh",
+      "lastName": "thorat",
+      "mobile": 7897929,
+      "active": "true"
+    },
+    {
+      "id": "626295fa-6451-4531-9dc7-8e89c05f617d",
+      "firstName": "Shubham",
+      "lastName": "Jadhav",
+      "email": "shubham.@wipro.com",
+      "mobile": 7517848143,
+      "password": "$2a$10$.qEOvAeGFnN4WMw4biQz8u1pej8xQfBs/QUqb6wlreJDZI2XH4Yfq"
+    },
+    {
+      "email": "sam@mail.com",
+      "password": "$2a$10$eyJCzB0DRy7XxxuTa4V.u.wvZiCD7eCkpoWtjoWUxAYIyZp4gg98m",
+      "id": "9d213225-700c-414c-b1af-7a2c0c691c5a",
+      "firstName": "sam",
+      "lastName": "curren",
+      "mobile": 231232323,
+      "active": "true"
+    }
+  ]
+}
