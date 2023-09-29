@@ -24,7 +24,7 @@ import com.api.ogm.model.ProductModel;
 
 
 @RestController
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "http://localhost:7080")
 public class ProductController {
     
 
